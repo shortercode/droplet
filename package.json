@@ -1,0 +1,14 @@
+{
+  "name": "@shortercode/droplet",
+  "version": "0.1.0",
+  "description": "The little data store that could",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shortercode",
+  "license": "MIT",
+  "dependencies": {
+    "@preact/signals-core": "^1.9.0"
+  }
+}
